@@ -9,3 +9,6 @@ The to_full_form (outside of the surd simplifier class), takes in two integers a
 form as an integer,75 or √75 mathematically.
 
 In the constructor of the surdsimplifier class, the class reads a file named "perfects.txt" to get the first 100,000 square numbers to be able to simplify surds.
+
+PS-:
+I am new to GitHub and this is my first repository, please inform me if I did something wrong, or there is something I need to do.
